@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "Yay\n";
+	asdasstd::cout << "Yay\n";
 	return 0;
 }
